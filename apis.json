@@ -1,0 +1,81 @@
+{
+    "name": "CardFlight",
+    "description": "CardFlight Mobile Payments SDK is a semi-integrated payment solution and the easiest way to integrate payment acceptance into your own mobile applications. As a developer, you get to retain full control of your integrated app experience, while using our encrypted EMV certified card readers and SDK\/API so that you can safely and securely accept card present payments in your app. The integration is seamless and will support your existing merchant account(s) and most major payment processors.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/pull_image_09-06-2019-06-20-pm.png",
+    "tags": [
+        "api provider",
+        "applications",
+        "credit",
+        "financial",
+        "have api",
+        "payments",
+        "profile"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/cardflight\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "CardFlight",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/pull_image_09-06-2019-06-20-pm.png",
+            "humanURL": "https:\/\/getcardflight.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/cardflight-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/cardflight-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "About",
+            "url": "https:\/\/cardflight.com\/about\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/cardflight.tumblr.com\/"
+        },
+        {
+            "type": "Blog",
+            "url": "https:\/\/cardflight.com\/blog\/"
+        },
+        {
+            "type": "Contact Form",
+            "url": "https:\/\/cardflight.com\/contact-us\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/cardflight"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/CardFlight"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/cardflight.com\/pricing\/"
+        },
+        {
+            "type": "SDK",
+            "url": "https:\/\/cardflight.com\/sdk\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/CardFlight"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/getcardflight.com\/"
+        }
+    ]
+}
